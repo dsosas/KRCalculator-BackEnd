@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Basic info
 
-Things you may want to cover:
+This project runs with Ruby 2.3.3 and Rails 5.1.4. It was created using only the necessary
+elements for creating a few enpoints for the Client app to communicate via HTTP.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
