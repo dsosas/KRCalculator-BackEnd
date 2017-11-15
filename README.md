@@ -1,14 +1,15 @@
 # README
 
-# Basic info
+# Environment
 
-This project runs with Ruby 2.3.3 and Rails 5.1.4. It was created using only the necessary
-elements for creating a few enpoints for the Client app to communicate via HTTP. Please clone
-repository and run 'bundle install' inside the project directory. Then run 'rails s' so it starts
-listening in port 3000. The front-end part of this project is already configured to make requests
-at localhost:3000. 
+Ruby 2.3.3  
+Rails 5.1.4  
 
-# NOTE ( Important)
+# Instructions
 
-Browsers will most likely block request
+`git clone https://github.com/dsosas/KRCalculator-BackEnd.git`       
+`cd KRCalculator-BackEnd`        
+`bundle install`        
+`rails s`          
 
+Go to https://github.com/dsosas/KRCalculator-FrontEnd and follow instructions.
